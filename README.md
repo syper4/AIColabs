@@ -4,3 +4,4 @@ This repo contains notebooks for running local AI models and fine-tuning tools i
 # Repo - details
 
 We are publising jupiter note book for run local model on google colabs like environment.
+we mostly publishing unsencored models here.
